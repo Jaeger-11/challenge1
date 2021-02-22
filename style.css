@@ -25,7 +25,7 @@ body{
 #holder{
     display: grid;
     grid-template-columns: 1fr;
-    margin: 70px;
+    margin: 70px 100px;
 }
   
 .container{
